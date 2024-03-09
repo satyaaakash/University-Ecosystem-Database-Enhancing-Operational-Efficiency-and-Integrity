@@ -30,9 +30,8 @@ This project involves the design and implementation of a robust database system 
 To replicate or contribute to this project, ensure you have Oracle 11g installed and configured. Follow the documented schema to create the database structure and populate it with initial data for testing. Review the PL/SQL procedures and triggers for understanding automated operations within the system.
 
 ## Contributors
-
-- R. Uma Sai Charan
 - Satya Aakash Chowdary
+- R. Uma Sai Charan
 - Rohit M. Somani
 
 This project was developed as part of the academic curriculum at Vellore Institute of Technology, under the guidance of the Department of Information Technology.
